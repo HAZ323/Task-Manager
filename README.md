@@ -1,10 +1,10 @@
-# Homework Assignment 4 - Task Manager
+# Homework Assignment 5 - Task Manager
 
 Author:
 
 Email:
 
-### CSE 264 – Web Systems Programming,
+### CSE 264 – Web Systems Programming
 
 - Due Tuesday, October 4th @ 11:59pm
 - No extensions under any circumstances.
